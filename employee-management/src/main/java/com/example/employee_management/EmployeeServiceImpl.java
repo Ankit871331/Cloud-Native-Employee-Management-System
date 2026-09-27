@@ -1,4 +1,4 @@
-package com.example.employee_management.service;
+package com.example.employee_management;
 
 import com.example.employee_management.entity.Employee;
 import com.example.employee_management.exception.EmployeeNotFoundException;

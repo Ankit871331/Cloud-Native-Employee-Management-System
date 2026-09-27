@@ -1,7 +1,7 @@
 package com.example.employee_management.controller;
 
 import com.example.employee_management.entity.Employee;
-import com.example.employee_management.service.EmployeeService;
+import com.example.employee_management.EmployeeService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
